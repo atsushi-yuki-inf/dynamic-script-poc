@@ -1,3 +1,1 @@
-$(document).ready(function() {
-  console.log('main-script.js loaded');
-});
+console.log('main-script.js loaded');
